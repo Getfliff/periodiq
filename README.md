@@ -17,7 +17,11 @@ project fills the gap.
 
 ## Installation
 
-periodiq is licensed under LGPL 3.0+.
+periodiq is licensed under LGPL 3.0+. Please see [COPYING] and [COPYING.LESSER]
+for licensing details.
+
+[COPYING]: https://gitlab.com/bersace/periodiq/-/bloc/master/COPYING
+[COPYING.LESSER]: https://gitlab.com/bersace/periodiq/-/bloc/master/COPYING.LESSER
 
 ``` console
 $ pip install periodiq
